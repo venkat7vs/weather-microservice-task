@@ -1,0 +1,1 @@
+Create a small micro-service in a language of your choice that returns the weather for a given zip code and deploy it to a Kubernetes cluster.
